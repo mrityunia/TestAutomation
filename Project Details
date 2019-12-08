@@ -1,0 +1,10 @@
+i)Create Vertual Environment command in name of tstVenv
+ 1) Install vertual Environment : pip install virtualenv
+ 2) Crating Virtual environment virtualenv tstVenv
+ 3) activate Virtual enviroment \TestAutomation\tstVenv\Scripts>activate
+
+ii) Install packages
+          pip install selenium
+          pip install request
+          pip install behave
+iii) Create features, page folder and helper ,utils as packages
