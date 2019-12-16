@@ -6,7 +6,7 @@
 import logging
 import os
 
-dir_path = os.getcwd() + '\\testdata\\logger.log'
+dir_path = os.getcwd() + '\\TestAutomation\\testdata\\logger.log'
 print(dir_path)
 if os.path.exists(dir_path):
 	os.remove(dir_path)

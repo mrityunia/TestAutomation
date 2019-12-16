@@ -1,14 +1,14 @@
-2019-12-09 21:52:37,101: DEBUG: format 'The user opens application' -> 'The user opens application'
-2019-12-09 21:52:37,102: DEBUG: format 'application is opened' -> 'application is opened'
-2019-12-09 21:52:37,102: DEBUG: format 'the user clicks on sign in' -> 'the user clicks on sign in'
-2019-12-09 21:52:37,103: DEBUG: format 'the user enters user id and password' -> 'the user enters user id and password'
-2019-12-09 21:52:37,103: DEBUG: format 'clicks on SignIn' -> 'clicks on SignIn'
-2019-12-09 21:52:37,104: DEBUG: format 'the user is getting success message' -> 'the user is getting success message'
-2019-12-09 21:52:37,115: INFO: Feature Name is ----WebSmoke Test cases
-2019-12-09 21:52:37,117: INFO: This is before scenario 
-2019-12-09 21:52:37,122: INFO: STEP: Given The user opens application
-2019-12-09 21:52:37,124: INFO: STEP: Then application is opened
-2019-12-09 21:52:37,125: INFO: STEP: Given the user clicks on sign in
-2019-12-09 21:52:37,127: INFO: STEP: When the user enters user id and password
-2019-12-09 21:52:37,128: INFO: STEP: When clicks on SignIn
-2019-12-09 21:52:37,130: INFO: STEP: Then the user is getting success message
+2019-12-16 16:22:40,773: DEBUG: format 'The user opens application' -> 'The user opens application'
+2019-12-16 16:22:40,773: DEBUG: format 'application is opened' -> 'application is opened'
+2019-12-16 16:22:40,773: DEBUG: format 'the user clicks on sign in' -> 'the user clicks on sign in'
+2019-12-16 16:22:40,773: DEBUG: format 'the user enters user id and password' -> 'the user enters user id and password'
+2019-12-16 16:22:40,773: DEBUG: format 'clicks on SignIn' -> 'clicks on SignIn'
+2019-12-16 16:22:40,773: DEBUG: format 'the user is getting success message' -> 'the user is getting success message'
+2019-12-16 16:22:40,803: INFO: Feature Name is ----Web Smoke Test cases
+2019-12-16 16:22:40,803: INFO: This is before scenario 
+2019-12-16 16:22:40,809: INFO: STEP: Given The user opens application
+2019-12-16 16:22:40,809: INFO: STEP: Then application is opened
+2019-12-16 16:22:40,809: INFO: STEP: Given the user clicks on sign in
+2019-12-16 16:22:40,809: INFO: STEP: When the user enters user id and password
+2019-12-16 16:22:40,809: INFO: STEP: When clicks on SignIn
+2019-12-16 16:22:40,809: INFO: STEP: Then the user is getting success message
