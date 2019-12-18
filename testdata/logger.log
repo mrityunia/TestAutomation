@@ -1,14 +1,14 @@
-2019-12-16 16:22:40,773: DEBUG: format 'The user opens application' -> 'The user opens application'
-2019-12-16 16:22:40,773: DEBUG: format 'application is opened' -> 'application is opened'
-2019-12-16 16:22:40,773: DEBUG: format 'the user clicks on sign in' -> 'the user clicks on sign in'
-2019-12-16 16:22:40,773: DEBUG: format 'the user enters user id and password' -> 'the user enters user id and password'
-2019-12-16 16:22:40,773: DEBUG: format 'clicks on SignIn' -> 'clicks on SignIn'
-2019-12-16 16:22:40,773: DEBUG: format 'the user is getting success message' -> 'the user is getting success message'
-2019-12-16 16:22:40,803: INFO: Feature Name is ----Web Smoke Test cases
-2019-12-16 16:22:40,803: INFO: This is before scenario 
-2019-12-16 16:22:40,809: INFO: STEP: Given The user opens application
-2019-12-16 16:22:40,809: INFO: STEP: Then application is opened
-2019-12-16 16:22:40,809: INFO: STEP: Given the user clicks on sign in
-2019-12-16 16:22:40,809: INFO: STEP: When the user enters user id and password
-2019-12-16 16:22:40,809: INFO: STEP: When clicks on SignIn
-2019-12-16 16:22:40,809: INFO: STEP: Then the user is getting success message
+2019-12-18 20:47:35,653: DEBUG: format 'the user has navigated to the page "GAM dashboard"' -> 'the user has navigated to the page "GAM dashboard"'
+2019-12-18 20:47:35,653: DEBUG: format 'the user sees the page url contains "{titlematch}"' -> 'the user sees the page url contains "(?P<titlematch>.+?)"'
+2019-12-18 20:47:35,653: DEBUG: format 'the user sees the "{pagesource}" in the PageSource' -> 'the user sees the "(?P<pagesource>.+?)" in the PageSource'
+2019-12-18 20:47:35,653: DEBUG: format 'the user has captured the now showing xxxx items number on the GAM home screen' -> 'the user has captured the now showing xxxx items number on the GAM home screen'
+2019-12-18 20:47:35,653: DEBUG: format 'the user has exports the CSV file from GAM' -> 'the user has exports the CSV file from GAM'
+2019-12-18 20:47:35,665: DEBUG: format 'the user sees that the number of rows in the CSV is equal to the "Now showing xxxx items" plus one' -> 'the user sees that the number of rows in the CSV is equal to the "Now showing xxxx items" plus one'
+2019-12-18 20:47:35,665: DEBUG: format 'the user deletes the CSV file' -> 'the user deletes the CSV file'
+2019-12-18 20:47:35,669: INFO: Feature Name is ----Web Smoke Test cases
+2019-12-18 20:47:35,669: INFO: This is before scenario 
+2019-12-18 20:47:35,669: INFO: Chrome Default Browser starting.....
+2019-12-18 20:47:41,341: INFO: Browser is maximize 
+2019-12-18 20:47:46,690: INFO: URL is https://gamqa.csgicorp.com/
+2019-12-18 20:47:46,698: INFO: Page title is CSG Global Asset Management (GAM)
+2019-12-18 20:47:46,706: INFO: Page source is <!DOCTYPE html><html

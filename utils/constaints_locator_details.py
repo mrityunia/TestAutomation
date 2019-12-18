@@ -3,6 +3,8 @@
 # Feature Name :: --
 
 # To Do ::-
+import os
 
-web_url="http://automationpractice.com/index.php"
+gam_url="https://gamqa.csgicorp.com/"
 browsers_name=("Chrome","ChromeHeadless","Firefox")
+solution_location=os.getcwd()+"\\TestAutomation"
